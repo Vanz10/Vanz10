@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vanz10
-- 👀 I’m interested in ...data science 
-- 🌱 I’m currently learning ...php7 
-- 💞️ I’m looking to collaborate on ...web design project
-- 📫 How to reach me ...
+- 👀 I’m interested in backend development 
+- 🌱 I’m currently learning php7 
+- 💞️ I’m looking to collaborate on web design projects
+- 📫 How to reach me awongivan@yahoo.com 
 
 <!---
 Vanz10/Vanz10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
