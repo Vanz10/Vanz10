@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vanz10
 - 👀 I’m interested in ...data science 
-- 🌱 I’m currently learning ...Javascript 
+- 🌱 I’m currently learning ...php7 
 - 💞️ I’m looking to collaborate on ...web design project
 - 📫 How to reach me ...
 
